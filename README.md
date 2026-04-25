@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/0176-second-highest-salary/) | Medium |
+| [0181-employees-earning-more-than-their-managers](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0185-department-top-three-salaries](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0584-find-customer-referee](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/0584-find-customer-referee/) | Easy |
