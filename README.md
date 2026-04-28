@@ -16,6 +16,7 @@
 | [0585-investments-in-2016](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/0585-investments-in-2016/) | Medium |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
+| [0607-sales-person](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/0607-sales-person/) | Easy |
 | [1321-restaurant-growth](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1341-movie-rating/) | Medium |
