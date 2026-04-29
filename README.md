@@ -18,6 +18,7 @@
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0607-sales-person](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/0607-sales-person/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1321-restaurant-growth](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1341-movie-rating/) | Medium |
