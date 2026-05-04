@@ -30,6 +30,7 @@
 | [1527-patients-with-a-condition](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1667-fix-names-in-a-table/) | Easy |
+| [1693-daily-leads-and-partners](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
