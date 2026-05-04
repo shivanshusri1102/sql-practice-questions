@@ -28,6 +28,7 @@
 | [1484-group-sold-products-by-the-date](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1527-patients-with-a-condition/) | Easy |
+| [1587-bank-account-summary-ii](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
