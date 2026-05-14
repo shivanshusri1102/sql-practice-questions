@@ -33,5 +33,6 @@
 | [1693-daily-leads-and-partners](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1795-rearrange-products-table](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1795-rearrange-products-table/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
