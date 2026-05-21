@@ -38,4 +38,5 @@
 | [1890-the-latest-login-in-2020](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1890-the-latest-login-in-2020/) | Easy |
 | [1965-employees-with-missing-information](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1965-employees-with-missing-information/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+| [3436-find-valid-emails](https://github.com/shivanshusri1102/sql-practice-questions/tree/main/3436-find-valid-emails/) | Easy |
 <!---LeetCode Topics End-->
